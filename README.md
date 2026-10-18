@@ -1,4 +1,3 @@
-
 # KPDF
 
 > [!IMPORTANT]
@@ -13,7 +12,14 @@
 
 **KPDF** is a new, independently developed PDF application for Windows, based on the open-source codebase of [KillerPDF](https://github.com/SteveTheKiller/KillerPDF).
 
-The original source code serves as a foundation for further development. KPDF will follow its own development direction, including potential changes to the user interface, application architecture, and functionality.
+The original source code serves as a foundation for further development. KPDF will follow its own development direction, with a focus on the following goals:
+
+> [!NOTE]
+> **Development Goals**
+>
+> - **Comprehensive UI Overhaul:** A near-complete redesign and refactoring of the graphical user interface, creating a modern, consistent, and visually refined appearance.
+> - **Intuitive User Experience:** Significantly improved usability through streamlined workflows, intuitive navigation, and a clean, uncluttered interface that keeps essential tools easily accessible.
+> - **Functional Optimization:** General improvements to existing functionality, focusing on performance, reliability, responsiveness, and efficiency.
 
 KPDF is an independent fork and is **not an official release of KillerPDF**.
 
